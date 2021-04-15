@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "832818766747",
+    "project_id": "universitybazarsystem-bf3c1",
+    "storage_bucket": "universitybazarsystem-bf3c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832818766747:android:bf81402c097ca07eb8773e",
+        "android_client_info": {
+          "package_name": "com.example.cselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832818766747-coiik7khdcqetd0gb4u0huk4td4id9mb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cselogin",
+            "certificate_hash": "459cb1b744daecfa29f411078612d0b253340689"
+          }
+        },
+        {
+          "client_id": "832818766747-1p1p3ovuju4he8ook0h16me5f73qikr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATugZxoO0K2_7U0AqVZyXFRELlL3-hL5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832818766747-1p1p3ovuju4he8ook0h16me5f73qikr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
